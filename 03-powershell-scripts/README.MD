@@ -1,4 +1,4 @@
-# Automação de Infraestrutura e Suporte com PowerShell
+# 🤖 Automação de Infraestrutura e Suporte com PowerShell
 
 ## 🎯 Objetivo Geral
 Desenvolver e estruturar um ecossistema de automação em PowerShell para otimizar rotinas operacionais de TI, cobrindo desde o gerenciamento do ciclo de vida de usuários no Active Directory e controle de acesso a arquivos até monitoramento de saúde de servidores e ferramentas de suporte N1.
