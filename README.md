@@ -32,7 +32,7 @@
   
 <h2> 🤳 Conecte-se comigo:</h2>
 
-[<img align="left" alt="Rodrigo Luiz Soares | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Rodrigo Luiz Soares | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/rodrigolzsoares
