@@ -7,14 +7,14 @@
 <h2>👨‍💻 Projetos de suporte e infraestrutura de TI:</h2>
 
 - ✅<b>Redes Home Lab</b>
-  - [Redes(Cisco packet tracer) e troubleshooting de conectividade](https://)
+  - **[Redes(Cisco packet tracer) e troubleshooting de conectividade](./01-rede-local-basica)**
 - ✅<b>Active Directoy Home Lab</b>
-  - [Virtualizando Active Directoy e configurando(Hyper V, Ad Ds, OUs, GPOs, DHCP, DNS, File Sever, NFTS)](https://)
+  - **[Virtualizando Active Directoy e configurando](./02-active-directory)**
 - ✅<b> PowerShell Scripts</b>
-  - [01 - Cirando usuários em massa no AD](https://)
-  - [02 - Auditoria e Higiene de Segurança no AD (Contas Inativas)](https://)
-  - [03 - Monitoramento de Saúde da Infraestrutura (Health Check)](https://)
-  - [04 - Ferramenta de Manutenção e Diagnóstico N1](https://)
+  - **[01 - Cirando usuários em massa no AD](./3-powershell-scripts/01-onboarding-usuarios-ad)**
+  - **[02 - Auditoria e Higiene de Segurança no AD (Contas Inativas)](./3-powershell-scripts/02-auditoria-contas-inativas)**
+  - **[03 - Monitoramento de Saúde da Infraestrutura (Health Check)](./3-powershell-scripts/03-monitoramento-saude-servidores)**
+  - **[04 - Ferramenta de Manutenção e Diagnóstico N1](./3-powershell-scripts/04-ferramenta-manutencao-suporte)**
 - ⏳<b>Azure/Entra ID</b>
   - Integrando o ambiente Cloud ao AD DS on-premise
 
