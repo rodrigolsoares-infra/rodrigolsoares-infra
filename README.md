@@ -27,7 +27,7 @@ Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Admini
 Abaixo estão os acessos para os repositórios detalhados com documentação, arquiteturas e cenários práticos de resolução de problemas (troubleshooting):
 
 ### 🛠️ 1. [Lab-suporte-infra](./) <!-- linkar repositório -->
-> **Foco:** Infraestrutura On-Premise, virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
+> **Foco:** Infraestrutura On-Premise, Virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
 * **Tópicos:** Instalação e configuração de Active Directory Domain Services (AD DS), criação de OU, estrutura de GPOs (segurança e mapeamento), POPs (Procedimentos Operacionais Padrão) e resolução de incidentes comuns.
 
 ### ☁️ 2. [Lab-infra-cloud](./) <!-- linkar repositório -->
@@ -65,7 +65,7 @@ Portfolio-suporte-infra/ (README Principal)
 * **Sistemas & Virtualização:** Windows Server 2022, Windows 10/11, Linux, Hyper-V.
 * **Redes & Serviços:** TCP/IP, IPv4, DHCP, DNS, Cisco Packet Tracer.
 * **Automação & Suporte:** PowerShell, Bash, Permissões NTFS, Backup/Restore.
-* **Diretório&Nuvem:** Active Directory AD DS, OUs, GPOs, DHCP, DNS, File Sever, NFTS,Fundamentos de Azure/Entra ID.
+* **Diretório&Nuvem:** Active Directory AD DS, OUs, GPOs, DHCP, DNS, File Sever, NFTS, Fundamentos de Azure/Entra ID.
   
 <!--
 - ✅ <b>Redes Home Lab</b>
