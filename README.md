@@ -11,10 +11,7 @@
 - ✅<b>Active Directoy Home Lab</b>
   - **[Virtualizando Active Directoy e configurando](./02-active-directory)**
 - ✅<b> PowerShell Scripts</b>
-  - **[01 - Cirando usuários em massa no AD](./3-powershell-scripts/01-onboarding-usuarios-ad)**
-  - **[02 - Auditoria e Higiene de Segurança no AD (Contas Inativas)](./3-powershell-scripts/02-auditoria-contas-inativas)**
-  - **[03 - Monitoramento de Saúde da Infraestrutura (Health Check)](./3-powershell-scripts/03-monitoramento-saude-servidores)**
-  - **[04 - Ferramenta de Manutenção e Diagnóstico N1](./3-powershell-scripts/04-ferramenta-manutencao-suporte)**
+  - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
 - ⏳<b>Azure/Entra ID</b>
   - Integrando o ambiente Cloud ao AD DS on-premise
 
