@@ -12,4 +12,4 @@ Essa página visa centralizar as estruturas de redes dos projetos desse portfól
 ---
 
 ## 📋 Sub-projetos de redes:
-* [Simulação para rede corporativa](./01-homelab-redes-techcorp).
+* [Simulação para rede corporativa para o AD](./01-homelab-redes-techcorp).
