@@ -10,9 +10,9 @@ Desenvolver e estruturar um ecossistema de automação em PowerShell para otimiz
 | Projeto | Descrição |
 | :--- | :--- |
 | **[01-onboarding-usuarios-ad](./01-onboarding-usuarios-ad)** | Provisionamento em lote de usuários no Active Directory via CSV. |
-| **[04-auditoria-contas-inativas](./02-auditoria-contas-inativas)** | Relatórios em CSV e desativação preventiva de contas inativas há mais de 30 dias. |
-| **[05-monitoramento-saude-servidores](./03-monitoramento-saude-servidores)** | Script de Health Check para testes de Ping/ICMP e portas de serviços (DNS/SMB). |
-| **[06-ferramenta-manutencao-suporte](./04-ferramenta-manutencao-suporte)** | Utilitário One-Click para limpeza de DNS, arquivos temporários e inventário rápido. |
+| **[02-auditoria-contas-inativas](./02-auditoria-contas-inativas)** | Relatórios em CSV e desativação preventiva de contas inativas há mais de 30 dias. |
+| **[03-monitoramento-saude-servidores](./03-monitoramento-saude-servidores)** | Script de Health Check para testes de Ping/ICMP e portas de serviços (DNS/SMB). |
+| **[04-ferramenta-manutencao-suporte](./04-ferramenta-manutencao-suporte)** | Utilitário One-Click para limpeza de DNS, arquivos temporários e inventário rápido. |
 
 ---
 
