@@ -10,12 +10,12 @@
   - [Redes(Cisco packet tracer) e troubleshooting de conectividade](https://)
 - ✅<b>Active Directoy Home Lab</b>
   - [Virtualizando Active Directoy e configurando(Hyper V, Ad Ds, OUs, GPOs, DHCP, DNS, File Sever, NFTS)](https://)
-- ✅<b> PowerShell</b>
+- ✅<b> PowerShell Scripts</b>
   - [01 - Cirando usuários em massa no AD](https://)
   - [02 - Auditoria e Higiene de Segurança no AD (Contas Inativas)](https://)
   - [03 - Monitoramento de Saúde da Infraestrutura (Health Check)](https://)
   - [04 - Ferramenta de Manutenção e Diagnóstico N1](https://)
-- ⏳<b>Azure/EntraID</b>
+- ⏳<b>Azure/Entra ID</b>
   - Integrando o ambiente Cloud ao AD DS on-premise
 
 <h2>📄Certificações: </h2>
