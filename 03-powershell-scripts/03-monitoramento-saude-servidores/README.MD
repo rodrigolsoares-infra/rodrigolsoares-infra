@@ -1,4 +1,4 @@
-# 05. Monitoramento de Saúde da Infraestrutura (Health Check)
+# Monitoramento de Saúde da Infraestrutura (Health Check)
 
 ## 🎯 Objetivo
 Desenvolver um script em PowerShell para auditoria rápida e validação contínua da saúde operacional dos servidores e serviços de rede vitais (DNS, SMB/File Server), realizando testes de conectividade ICMP e validação de portas TCP.
