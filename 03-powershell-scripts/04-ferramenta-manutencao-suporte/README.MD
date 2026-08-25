@@ -1,4 +1,4 @@
-# 06. Ferramenta de Manutenção e Diagnóstico N1
+# Ferramenta de Manutenção e Diagnóstico N1
 
 ## 🎯 Objetivo
 Disponibilizar um script de execução rápida ("One-Click") para analistas de suporte N1 realizarem rotinas de manutenção preventiva/corretiva em estações e servidores, resolvendo problemas comuns de resolução de nomes, lentidão por arquivos temporários e identificação de ativos.
