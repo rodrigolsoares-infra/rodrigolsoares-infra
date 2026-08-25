@@ -6,15 +6,15 @@
 
 <h2>👨‍💻 Projetos de suporte e infraestrutura de TI:</h2>
 
-- ✅<b>Redes Home Lab</b>
+- ✅ <b>Redes Home Lab</b>
   - **[Configurando de Redes e Conectividade](./01-redes-home-lab)**
     - Troubleshooting <i>(⏳ Em breve)<i/>
-- ✅<b>Active Directoy Home Lab</b>
+- ✅ <b>Active Directoy Home Lab</b>
   - **[Etapas da configuração do Active Directory](./02-active-directory)**
     - Troubleshooting <i>(⏳ Em breve)<i/>
-- ✅<b>PowerShell Scripts</b>
+- ✅ <b>PowerShell Scripts</b>
     - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
-- ❌<b>Azure/Entra ID</b> <i>(⏳ Em breve)<i/>
+- ❌ <b>Azure/Entra ID</b> <i>(⏳ Em breve)<i/>
     - Integrando o ambiente Cloud ao AD DS on-premise
 
 <h2>📄Formação e Certificações: </h2>
