@@ -7,9 +7,11 @@
 <h2>👨‍💻 Projetos de suporte e infraestrutura de TI:</h2>
 
 - ✅<b>Redes Home Lab</b>
-  - **[Redes(Cisco packet tracer) e troubleshooting de conectividade](./01-redes-home-lab)**
+  - **[Redes(Cisco packet tracer) e configurações de conectividade](./01-redes-home-lab)**
+    - Troubleshooting <i>(⏳ Em breve)<i/>
 - ✅<b>Active Directoy Home Lab</b>
-  - **[Virtualizando Active Directoy e configurando](./02-active-directory)**
+  - **[Etapas Virtualização do Active Directory e Configurando](./02-active-directory)**
+    - Troubleshooting <i>(⏳ Em breve)<i/>
 - ✅<b> PowerShell Scripts</b>
   - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
 - ⏳<b>Azure/Entra ID</b> <i>(Em breve)<i/>
