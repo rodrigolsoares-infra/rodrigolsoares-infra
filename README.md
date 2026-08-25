@@ -12,7 +12,7 @@
 - ✅<b>Active Directoy Home Lab</b>
   - **[Etapas da configuração do Active Directory](./02-active-directory)**
     - Troubleshooting <i>(⏳ Em breve)<i/>
-- ✅<b> PowerShell Scripts</b>
+- ✅<b>PowerShell Scripts</b>
     - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
 - ❌<b>Azure/Entra ID</b> <i>(⏳ Em breve)<i/>
     - Integrando o ambiente Cloud ao AD DS on-premise
