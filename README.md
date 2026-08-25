@@ -1,4 +1,4 @@
-<h1>Olá, Eu sou o Rodrigo! </h1>
+<h1>🙋🏻‍♂️ Olá, Eu sou o Rodrigo! </h1>
 
 <h4>Bem-vindo ao meu repositório de projetos práticos! Este portfólio reúne simulações de cenários reais de infraestrutura, suporte técnico, administração de redes, sistemas operacionais e nuvem, consolidando a base teórica e prática adquirida na área de Tecnologia da Informação.</h4>
 
