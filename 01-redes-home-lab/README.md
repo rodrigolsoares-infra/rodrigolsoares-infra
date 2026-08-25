@@ -13,3 +13,6 @@ Essa página visa centralizar as estruturas de redes dos projetos desse portfól
 
 ## 📋 Sub-projetos de redes:
 * [Simulação para rede corporativa para o AD](./01-homelab-redes-techcorp).
+
+* ## 📋 Troubleshooting de redes:
+* Simulação em Cisco Packet Tracer <i>(⏳ Em breve)<i/>
