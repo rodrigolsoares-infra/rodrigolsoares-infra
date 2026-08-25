@@ -20,7 +20,7 @@
 <h2>📄Formação e Certificações: </h2>
 
   - ✅ <b>CST Analise e desenvolvimento de sistemas - Uninter (2024)</b>
-  - ✅ <b>Especialista em Suporte de TI - Google It Support(2026)</b>
+  - ✅ <b>Especialista em Suporte de TI - Google It Support (2026)</b>
   - ⏳ <b>Az-900 Microsoft Azure Fundamentals</b> <i>(Em preparação)<i/>
 
 <h2>🛠️ Tecnologias & Competências</h2>
