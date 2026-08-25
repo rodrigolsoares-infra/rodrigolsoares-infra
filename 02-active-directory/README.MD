@@ -2,8 +2,8 @@
 
 O que eu fiz: Configurei uma máquina virtual (Hyper-V ou VirtualBox) executando o Windows Server 2022. Crie um domínio local, promova a máquina a controlador de domínio e crie uma estrutura de Unidades Organizacionais (OU), usuários, grupos de permissão e Políticas de Grupo (GPO) para simular o ambiente de uma empresa.
 
-## 📋 Troubleshooting de redes:
-* Simulação em Cisco Packet Tracer <i>(⏳ Em breve)<i/>
+## 📋 Troubleshooting no AD:
+* Simulação na pratica de resolução de problemas no Active Directory <i>(⏳ Em breve)<i/>
 
 ---
 
