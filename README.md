@@ -12,19 +12,20 @@
   - **[Virtualizando Active Directoy e configurando](./02-active-directory)**
 - ✅<b> PowerShell Scripts</b>
   - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
-- ⏳<b>Azure/Entra ID</b>
+- ⏳<b>Azure/Entra ID</b> <i>(Em breve)<i/>
   - Integrando o ambiente Cloud ao AD DS on-premise
 
-<h2>📄Certificações: </h2>
+<h2>📄Formação e Certificações: </h2>
 
-  - ✅[Especialista em Suporte de TI - Google It Support](img)
-  - ⏳Az-900 Microsoft Azure Fundamentals
+  - ✅ <b>CST Analise e desenvolvimento de sistemas - Uninter (2024)</b>
+  - ✅ <b>Especialista em Suporte de TI - Google It Support(2026)</b>
+  - ⏳ <b>Az-900 Microsoft Azure Fundamentals</b> <i>(Em preparação)<i/>
 
 <h2>🛠️ Tecnologias & Competências</h2>
 
 * **Sistemas & Virtualização:** Windows Server 2022, Windows 10/11, Linux, Hyper-V.
 * **Redes & Serviços:** TCP/IP, IPv4, DHCP, DNS, Cisco Packet Tracer.
-* * **Automação & Suporte:** PowerShell, Bash, Permissões NTFS, Backup/Restore.
+* **Automação & Suporte:** PowerShell, Bash, Permissões NTFS, Backup/Restore.
 * **Diretório&Nuvem:** Active Directory AD DS, OUs, GPOs, DHCP, DNS, File Sever, NFTS,Fundamentos de Azure/Entra ID.
   
 <h2> 🤳 Conecte-se comigo:</h2>
