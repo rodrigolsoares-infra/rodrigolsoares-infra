@@ -1,4 +1,4 @@
-# Módulo 05: Automação de Provisionamento no Active Directory via PowerShell
+# Automação de Provisionamento no Active Directory via PowerShell
 
 ## 🎯 Objetivo
 Automatizar a criação e o provisionamento em lote de usuários no Active Directory Domain Services (AD DS) utilizando um script em PowerShell e um arquivo de entrada de dados no formato CSV.
