@@ -5,7 +5,7 @@ O que eu fiz: Configurei uma máquina virtual (Hyper-V ou VirtualBox) executando
 ## 📋 Troubleshooting no AD:
 * Simulação na pratica de resolução de problemas no Active Directory <i>(⏳ Em breve)<i/>
 
-## Resumo das etapas:
+## 📜 Resumo das etapas:
 * Passo 01: Virtualizar Windows Server 2022 com Hyper V
 * Passo 02: Implementação de Infraestrutura Active Directory (AD DS) e GPO
 * Passo 03: Implementação de Serviços Essenciais de Rede (DHCP e DNS)
