@@ -1,4 +1,4 @@
-# 04. Auditoria e Higiene de Segurança no AD (Contas Inativas)
+# Auditoria e Higiene de Segurança no AD (Contas Inativas)
 
 ## 🎯 Objetivo
 Automatizar a varredura e o gerenciamento do ciclo de vida de contas no Active Directory, identificando usuários inativos há mais de 30 dias para exportação de relatórios em CSV e desativação preventiva das contas.
