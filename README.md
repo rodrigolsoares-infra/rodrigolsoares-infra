@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
 
-### 🚧Status: Em desenvolvimento contínuo.
+### 🚧 Status: Em desenvolvimento contínuo.
 ---
 
 ## 👤 Sobre Mim
