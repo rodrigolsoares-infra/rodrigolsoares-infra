@@ -1,6 +1,20 @@
-# Passo 01: Virtualizar Windows Server 2022 com Hyper V
+# 💻 Laboratório de Infraestrutura com AD e Windows Server:
 
-# Passo 02: Implementação de Infraestrutura Active Directory (AD DS) e GPO
+O que eu fiz: Configurei uma máquina virtual (Hyper-V ou VirtualBox) executando o Windows Server 2022. Crie um domínio local, promova a máquina a controlador de domínio e crie uma estrutura de Unidades Organizacionais (OU), usuários, grupos de permissão e Políticas de Grupo (GPO) para simular o ambiente de uma empresa.
+
+## 📋 Troubleshooting no AD:
+* Simulação na pratica de resolução de problemas no Active Directory <i>(⏳ Em breve)<i/>
+
+## 📜 Resumo das etapas:
+* Passo 01: Implementação de Infraestrutura Active Directory (AD DS) e GPO
+* Passo 02: Implementação de Serviços Essenciais de Rede (DHCP e DNS)
+* Passo 03: Implementação de File Server com Permissões Compartilhadas e NTFS
+* Passo 04: Backup Corporativo e Retenção de Dados
+* Passo 05: Gestão de Impressão e Serviços de Rede
+
+---
+
+# Passo 01: Implementação de Infraestrutura Active Directory (AD DS) e GPO
 
 ## 🎯 Objetivo
 Implementar um ambiente de controlador de domínio enterprise utilizando Windows Server 2022 no Hyper-V, com estrutura hierárquica de Unidades Organizacionais (OUs), usuários, grupos de segurança e aplicação de políticas de grupo (GPOs).
@@ -56,7 +70,7 @@ Vinculada diretamente na OU `TechCorp` para afetar todos os usuários e computad
 ### 4. Ingresso do Cliente Windows 10 e Validação de GPO
 ![Cliente no Dominio e GPO](imagens/04-cliente-dominio-gpo.png)
 
-# Passo 03: Implementação de Serviços Essenciais de Rede (DHCP e DNS)
+# Passo 02: Implementação de Serviços Essenciais de Rede (DHCP e DNS)
 
 ## 🎯 Objetivo
 Configurar e validar a distribuição automática de endereçamento de rede via protocolo DHCP no Windows Server 2022, garantindo integração nativa com o Active Directory DS e resolução de nomes via DNS (Zonas Direta e Reversa).
@@ -81,7 +95,7 @@ Configurar e validar a distribuição automática de endereçamento de rede via 
 ### 2. Endereço IP e Opções de Rede Recebidas no Cliente (`CLI-TI-01`)
 ![IP Configurado via DHCP no Cliente](imagens/06-cliente-ip-dhcp.png)
 
-# Passo 04: Implementação de File Server com Permissões Compartilhadas e NTFS
+# Passo 03: Implementação de File Server com Permissões Compartilhadas e NTFS
 
 ## 🎯 Objetivo
 Configurar um Servidor de Arquivos (File Server) corporativo no Windows Server 2022, implementando o princípio do menor privilégio (PoLP) através do controle de acesso baseado em funções (RBAC), combinando permissões de Compartilhamento SMB e Segurança NTFS.
@@ -108,14 +122,14 @@ Configurar um Servidor de Arquivos (File Server) corporativo no Windows Server 2
 ### 2. Validação de Controle de Acesso no Cliente (`CLI-TI-01`)
 ![Acesso Negado e Mapeamento](imagens/08-acesso-negado-cliente.png)
 
-# Passo 05: Backup Corporativo e Retenção de Dados
+# Passo 04: Backup Corporativo e Retenção de Dados
 
 ## 🎯 Objetivo Geral
 Garantir a continuidade de negócios e a proteção contra perda de dados no File Server corporativo, combinando recuperação instantânea via snapshots de volume (VSS) com rotinas automatizadas de backup incremental.
 
 ---
 
-# 01. Proteção de Dados com Volume Shadow Copy (VSS)
+# 04.1 - Proteção de Dados com Volume Shadow Copy (VSS)
 
 ## 🎯 Objetivo
 Implementar e configurar o serviço de Cópias de Sombra (VSS - Volume Shadow Copy) nos volumes de armazenamento do File Server, permitindo a recuperação rápida de arquivos corrompidos ou deletados acidentalmente pelos próprios usuários (self-service recovery) sem necessidade de intervenção do N2/N3.
@@ -142,7 +156,7 @@ Implementar e configurar o serviço de Cópias de Sombra (VSS - Volume Shadow Co
 
 --- 
 
-# 02. Rotina de Backup Corporativo Automatizado com Cobian Reflector
+# 04.2 - Rotina de Backup Corporativo Automatizado com Cobian Reflector
 
 ## 🎯 Objetivo
 Configurar e automatizar rotinas de backup corporativo a nível de arquivos (File-Level) utilizando o **Cobian Reflector**, garantindo a redundância e integridade dos dados do File Server com agendamento periódico e estratégias de backup incremental.
@@ -167,13 +181,13 @@ Configurar e automatizar rotinas de backup corporativo a nível de arquivos (Fil
 ### 2. Validação dos Logs de Execução com Sucesso
 ![Backup Concluído](imagens/12-cobian-backup-sucesso.png)
 
-# Passo 06: Gestão de Impressão e Serviços de Rede
+# Passo 05: Gestão de Impressão e Serviços de Rede
 
 ## 🎯 Objetivo Geral
 Padronizar a gestão de dispositivos de impressão em ambiente corporativo, abrangendo o compartilhamento centralizado de recursos no servidor e a criação de automações para rápida resolução de incidentes de spooler travado.
 
 
-# 01. Implantação de Servidor de Impressão e Compartilhamento de Redes
+# 05.1 - Implantação de Servidor de Impressão e Compartilhamento de Redes
 
 ## 🎯 Objetivo
 Configurar o compartilhamento centralizado de recursos de impressão no servidor de domínio (`SRV-DC01`), padronizando nomes de fila, permissões de acesso e publicação no diretório corporativo.
@@ -195,7 +209,7 @@ Configurar o compartilhamento centralizado de recursos de impressão no servidor
 ![Impressora Compartilhada](imagens/13-impressora-compartilhada.png)
 
 ---
-# 02. Automação de Manutenção do Spooler de Impressão
+# 05.2 - Automação de Manutenção do Spooler de Impressão
 
 ## 🎯 Objetivo
 Desenvolver e aplicar script de manutenção preventiva/corretiva para a resolução de travamentos na fila de impressão do Windows, automatizando a interrupção do serviço, expurgo de arquivos temporários corrompidos e reinicialização limpa do Spooler.

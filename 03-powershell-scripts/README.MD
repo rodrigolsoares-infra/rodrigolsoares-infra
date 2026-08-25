@@ -1,4 +1,4 @@
-# Automação de Infraestrutura e Suporte com PowerShell
+# 🤖 Automação de Infraestrutura e Suporte com PowerShell
 
 ## 🎯 Objetivo Geral
 Desenvolver e estruturar um ecossistema de automação em PowerShell para otimizar rotinas operacionais de TI, cobrindo desde o gerenciamento do ciclo de vida de usuários no Active Directory e controle de acesso a arquivos até monitoramento de saúde de servidores e ferramentas de suporte N1.
@@ -9,10 +9,13 @@ Desenvolver e estruturar um ecossistema de automação em PowerShell para otimiz
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **[01-onboarding-usuarios-ad](./01-onboarding-usuarios-ad)** | Provisionamento em lote de usuários no Active Directory via CSV. |
-| **[04-auditoria-contas-inativas](./02-auditoria-contas-inativas)** | Relatórios em CSV e desativação preventiva de contas inativas há mais de 30 dias. |
-| **[05-monitoramento-saude-servidores](./03-monitoramento-saude-servidores)** | Script de Health Check para testes de Ping/ICMP e portas de serviços (DNS/SMB). |
-| **[06-ferramenta-manutencao-suporte](./04-ferramenta-manutencao-suporte)** | Utilitário One-Click para limpeza de DNS, arquivos temporários e inventário rápido. |
+| **✅ [01-onboarding-usuarios-ad](./01-onboarding-usuarios-ad)** | Provisionamento em lote de usuários no Active Directory via CSV. |
+| **✅ [02-auditoria-contas-inativas](./02-auditoria-contas-inativas)** | Relatórios em CSV e desativação preventiva de contas inativas há mais de 30 dias. |
+| **✅ [03-monitoramento-saude-servidores](./03-monitoramento-saude-servidores)** | Script de Health Check para testes de Ping/ICMP e portas de serviços (DNS/SMB). |
+| **✅ [04-ferramenta-manutencao-suporte](./04-ferramenta-manutencao-suporte)** | Utilitário One-Click para limpeza de DNS, arquivos temporários e inventário rápido. |
+| **❌ 05-diagnostico-inventario-n1** | Script de Coleta de Inventario Basico N1 <i>(⏳ Em breve)<i/>|
+| **❌ 06-limpeza-cache-rede** | Limpeza automática do cache do DNS <i>(⏳ Em breve)<i/>|
+| **❌ 07-teste-conectividade-redes** | Teste de conectividade da rede automatizado <i>(⏳ Em breve)<i/>|
 
 ---
 
