@@ -129,7 +129,7 @@ Garantir a continuidade de negócios e a proteção contra perda de dados no Fil
 
 ---
 
-# 01. Proteção de Dados com Volume Shadow Copy (VSS)
+# 04.1 - Proteção de Dados com Volume Shadow Copy (VSS)
 
 ## 🎯 Objetivo
 Implementar e configurar o serviço de Cópias de Sombra (VSS - Volume Shadow Copy) nos volumes de armazenamento do File Server, permitindo a recuperação rápida de arquivos corrompidos ou deletados acidentalmente pelos próprios usuários (self-service recovery) sem necessidade de intervenção do N2/N3.
@@ -156,7 +156,7 @@ Implementar e configurar o serviço de Cópias de Sombra (VSS - Volume Shadow Co
 
 --- 
 
-# 02. Rotina de Backup Corporativo Automatizado com Cobian Reflector
+# 04.2 - Rotina de Backup Corporativo Automatizado com Cobian Reflector
 
 ## 🎯 Objetivo
 Configurar e automatizar rotinas de backup corporativo a nível de arquivos (File-Level) utilizando o **Cobian Reflector**, garantindo a redundância e integridade dos dados do File Server com agendamento periódico e estratégias de backup incremental.
@@ -187,7 +187,7 @@ Configurar e automatizar rotinas de backup corporativo a nível de arquivos (Fil
 Padronizar a gestão de dispositivos de impressão em ambiente corporativo, abrangendo o compartilhamento centralizado de recursos no servidor e a criação de automações para rápida resolução de incidentes de spooler travado.
 
 
-# 01. Implantação de Servidor de Impressão e Compartilhamento de Redes
+# 05.1 - Implantação de Servidor de Impressão e Compartilhamento de Redes
 
 ## 🎯 Objetivo
 Configurar o compartilhamento centralizado de recursos de impressão no servidor de domínio (`SRV-DC01`), padronizando nomes de fila, permissões de acesso e publicação no diretório corporativo.
@@ -209,7 +209,7 @@ Configurar o compartilhamento centralizado de recursos de impressão no servidor
 ![Impressora Compartilhada](imagens/13-impressora-compartilhada.png)
 
 ---
-# 02. Automação de Manutenção do Spooler de Impressão
+# 05.2 - Automação de Manutenção do Spooler de Impressão
 
 ## 🎯 Objetivo
 Desenvolver e aplicar script de manutenção preventiva/corretiva para a resolução de travamentos na fila de impressão do Windows, automatizando a interrupção do serviço, expurgo de arquivos temporários corrompidos e reinicialização limpa do Spooler.
