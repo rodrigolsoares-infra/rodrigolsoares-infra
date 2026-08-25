@@ -23,7 +23,7 @@
   - ✅ <b>Especialista em Suporte de TI - Google It Support (2026)</b>
   - ⏳ <b>Az-900 Microsoft Azure Fundamentals</b> <i>(Em preparação)<i/>
 
-<h2>🛠️ Tecnologias & Competências</h2>
+<h2>🛠️ Tecnologias & Competências:</h2>
 
 * **Sistemas & Virtualização:** Windows Server 2022, Windows 10/11, Linux, Hyper-V.
 * **Redes & Serviços:** TCP/IP, IPv4, DHCP, DNS, Cisco Packet Tracer.
