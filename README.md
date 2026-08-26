@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação. 
 
-Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
+Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Migração para Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
 
 ---
 ## 👤 Sobre Mim
@@ -13,18 +13,18 @@ Este repositório reúne projetos práticos, simulações de ambientes corporati
 Análise e Desenvolvimento de Sistemas - Uninter 2024
 * **Certificações:** 
 * Google IT Support Professional Certificate - Coursera 2026 (✅ Concluída)
-* Az-900 Microsoft Azure Fundamentals (⏳ Em preparação Setembro/2026)
+* Estudando Az-900 Microsoft Azure Fundamentals (⏳ Em preparação)
+* Estudando CCST Network (⏳ Em preparação)
 * **Foco Profissional:** 
 Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
 * **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares]
-* **E-mail:** [rodrigo.l.soares@outlook.com]
 
 ---
 ## 🚀 Repositórios de Laboratórios
 
 Abaixo estão os acessos para os repositórios detalhados com documentação, arquiteturas e cenários práticos de resolução de problemas (troubleshooting):
 
-### 🛠️ 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) 
+### 🏢 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) 
 > **Foco:** Infraestrutura On-Premise, Virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
 * **Tópicos:** Instalação e configuração de Active Directory Domain Services (AD DS), criação de OU, estrutura de GPOs (segurança e mapeamento), POPs (Procedimentos Operacionais Padrão) e resolução de incidentes comuns.
 <div align="center"> <img src=".github/assets/seta-para-baixo" alt="Exemplo" width="300"> </div>
@@ -36,7 +36,8 @@ Abaixo estão os acessos para os repositórios detalhados com documentação, ar
 > **Foco:** Simulação e dimensionamento de redes corporativas.
 * **Tópicos:** Topologias em Cisco Packet Tracer, configuração de VLANs, roteamento estático/dinâmico, DHCP Server, ACLs de segurança e diagnósticos de conectividade (troubleshooting L2/L3).
 <div align="center"> <img src=".github/assets/seta-para-baixo" alt="Exemplo" width="300"> </div>
-### 📜 4. [Lab-powershell-scripts](https://github.com/rodrigolsoares-infra/Lab-powershell-scripts)
+### ⌨️ 4. [Lab-powershell-scripts](https://github.com/rodrigolsoares-infra/Lab-powershell-scripts)
+
 > **Foco:** Repositório central de automações e scripts utilitários.
 * **Tópicos:** Contém todos os scripts PowerShell utilizados nos demais repositórios (criação em massa de usuários no AD, consulta de permissões, automação de tarefas administrativas). *Centralizado para evitar duplicação de código.*
 
