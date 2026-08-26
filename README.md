@@ -43,7 +43,7 @@ Abaixo estão os acessos para os repositórios detalhados com documentação, ar
 * **Tópicos:** Contém todos os scripts PowerShell utilizados nos demais repositórios (criação em massa de usuários no AD, consulta de permissões, automação de tarefas administrativas). *Centralizado para evitar duplicação de código.*
 
 <!-- ### 🔒 5. [Lab-ciberseguranca](./) <!-- linkar repositório -->
-> **Foco:** Hardening de rede, políticas de acesso e mitigação de riscos.
+<!-- > **Foco:** Hardening de rede, políticas de acesso e mitigação de riscos.
 * **Tópicos:** Implementação de regras de Firewall, análise de logs de autenticação, simulação de incidentes de acesso indevido e aplicação de políticas de privilégio mínimo (Least Privilege). -->
 
 ---
