@@ -17,7 +17,6 @@ Análise e Desenvolvimento de Sistemas - Uninter 2024
 * **Foco Profissional:** 
 Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
 * **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares]
-* **E-mail:** [rodrigo.l.soares@outlook.com]
 
 ---
 ## 🚀 Repositórios de Laboratórios
