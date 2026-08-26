@@ -66,18 +66,5 @@ Portfolio-suporte-infra/ (README Principal)
 * **Redes & Serviços:** TCP/IP, IPv4, DHCP, DNS, Cisco Packet Tracer.
 * **Automação & Suporte:** PowerShell, Bash, Permissões NTFS, Backup/Restore.
 * **Diretório&Nuvem:** Active Directory AD DS, OUs, GPOs, DHCP, DNS, File Sever, NFTS, Fundamentos de Azure/Entra ID.
-  
-<!--
-- ✅ <b>Redes Home Lab</b>
-  - **[Configurando de Redes e Conectividade](./01-redes-home-lab)**
-    - Troubleshooting <i>(⏳ Em breve)<i/>
-- ✅ <b>Active Directoy Home Lab</b>
-  - **[Etapas da configuração do Active Directory](./02-active-directory)**
-    - Troubleshooting <i>(⏳ Em breve)<i/>
-- ✅ <b>PowerShell Scripts</b>
-    - **[Scripts automatizando tarefas no Active Directoy](./03-powershell-scripts)**
-- ❌ <b>Azure/Entra ID</b> <i>(⏳ Em breve)<i/>
-    - Integrando o ambiente híbrido em Cloud ao AD DS on-premise -->
-
 
 <!--
