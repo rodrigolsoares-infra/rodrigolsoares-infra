@@ -15,7 +15,7 @@ Análise e Desenvolvimento de Sistemas - Uninter 2024
 * **Certificações:** 
 * Google IT Support Professional Certificate - Coursera 2026 (✅ Concluída)
 * Estudando Az-900 Microsoft Azure Fundamentals (⏳ Em preparação)
-* Estudando CCST Network Cisco (⏳ Em preparação)
+* Estudando CCST Network (⏳ Em preparação)
 * **Foco Profissional:** 
 Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
 * **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares]
