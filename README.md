@@ -4,9 +4,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Migração para Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
 
-### 🚧 Status: Em desenvolvimento contínuo.
 ---
-
 ## 👤 Sobre Mim
 
 **🙋🏻‍♂️ Olá, Eu sou o Rodrigo!**
@@ -22,12 +20,11 @@ Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Admini
 * **E-mail:** [rodrigo.l.soares@outlook.com]
 
 ---
-
 ## 🚀 Repositórios de Laboratórios
 
 Abaixo estão os acessos para os repositórios detalhados com documentação, arquiteturas e cenários práticos de resolução de problemas (troubleshooting):
 
-### 🛠️ 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) 
+### 🏢 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) 
 > **Foco:** Infraestrutura On-Premise, Virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
 * **Tópicos:** Instalação e configuração de Active Directory Domain Services (AD DS), criação de OU, estrutura de GPOs (segurança e mapeamento), POPs (Procedimentos Operacionais Padrão) e resolução de incidentes comuns.
 
