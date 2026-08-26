@@ -35,7 +35,7 @@ Abaixo estão os acessos para os repositórios detalhados com documentação, ar
 > **Foco:** Simulação e dimensionamento de redes corporativas.
 * **Tópicos:** Topologias em Cisco Packet Tracer, configuração de VLANs, roteamento estático/dinâmico, DHCP Server, ACLs de segurança e diagnósticos de conectividade (troubleshooting L2/L3).
 
-### 📜 4. [Lab-powershell-scripts](https://github.com/rodrigolsoares-infra/Lab-powershell-scripts)
+### ⌨️ 4. [Lab-powershell-scripts](https://github.com/rodrigolsoares-infra/Lab-powershell-scripts)
 > **Foco:** Repositório central de automações e scripts utilitários.
 * **Tópicos:** Contém todos os scripts PowerShell utilizados nos demais repositórios (criação em massa de usuários no AD, consulta de permissões, automação de tarefas administrativas). *Centralizado para evitar duplicação de código.*
 
