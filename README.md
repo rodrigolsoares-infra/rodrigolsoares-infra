@@ -56,8 +56,9 @@ Portfolio-suporte-infra/ (README Principal)
  ├──> Lab-suporte-infra      (On-Premise: AD DS, GPOs, POPs)
  ├──> Lab-infra-cloud        (Nuvem Híbrida: Azure & Entra ID)
  ├──> Lab-redes              (Redes Cisco, VLANs, Routing)
- ├──> Lab-ciberseguranca     (Firewall, Hardening, Logs)
  └──> Lab-powershell-scripts (Automações e utilitários centralizados)
+<!-- ├──> Lab-ciberseguranca     (Firewall, Hardening, Logs) -->
+ 
 ```
 
 ## 🛠️ Tecnologias & Competências:
