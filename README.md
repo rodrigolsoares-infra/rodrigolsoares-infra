@@ -38,13 +38,13 @@ Abaixo estão os acessos para os repositórios detalhados com documentação, ar
 > **Foco:** Simulação e dimensionamento de redes corporativas.
 * **Tópicos:** Topologias em Cisco Packet Tracer, configuração de VLANs, roteamento estático/dinâmico, DHCP Server, ACLs de segurança e diagnósticos de conectividade (troubleshooting L2/L3).
 
-### 🔒 4. [Lab-ciberseguranca](./) <!-- linkar repositório -->
-> **Foco:** Hardening de rede, políticas de acesso e mitigação de riscos.
-* **Tópicos:** Implementação de regras de Firewall, análise de logs de autenticação, simulação de incidentes de acesso indevido e aplicação de políticas de privilégio mínimo (Least Privilege).
-
-### 📜 5. [Lab-powershell-scripts](./) <!-- linkar repositório -->
+### 📜 4. [Lab-powershell-scripts](./) <!-- linkar repositório -->
 > **Foco:** Repositório central de automações e scripts utilitários.
 * **Tópicos:** Contém todos os scripts PowerShell utilizados nos demais repositórios (criação em massa de usuários no AD, consulta de permissões, automação de tarefas administrativas). *Centralizado para evitar duplicação de código.*
+
+<!-- ### 🔒 5. [Lab-ciberseguranca](./) <!-- linkar repositório -->
+> **Foco:** Hardening de rede, políticas de acesso e mitigação de riscos.
+* **Tópicos:** Implementação de regras de Firewall, análise de logs de autenticação, simulação de incidentes de acesso indevido e aplicação de políticas de privilégio mínimo (Least Privilege). -->
 
 ---
 
