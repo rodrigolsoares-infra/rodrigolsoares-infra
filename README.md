@@ -27,15 +27,15 @@ Abaixo estão os acessos para os repositórios detalhados com documentação, ar
 ### 🛠️ 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) 
 > **Foco:** Infraestrutura On-Premise, Virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
 * **Tópicos:** Instalação e configuração de Active Directory Domain Services (AD DS), criação de OU, estrutura de GPOs (segurança e mapeamento), POPs (Procedimentos Operacionais Padrão) e resolução de incidentes comuns.
-<div align="center"> <img src=".github/assets/seta-para-baixo" alt="Exemplo" width="300"> </div>
+
 ### ☁️ 2. [Lab-infra-cloud](https://github.com/rodrigolsoares-infra/Lab-infra-cloud) 
 > **Foco:** Extensão da infraestrutura local para ambiente Híbrido e Microsoft Azure.
 * **Tópicos:** Continuação do `Lab-suporte-infra`. Sincronização do AD local com **Microsoft Entra ID** (Entra Connect), gestão de identidades na nuvem, implementação de licenças, controle de acesso (RBAC) e provisionamento de recursos básicos em Azure.
-<div align="center"> <img src=".github/assets/seta-para-baixo" alt="Exemplo" width="300"> </div>
+
 ### 🌐 3. [Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes) 
 > **Foco:** Simulação e dimensionamento de redes corporativas.
 * **Tópicos:** Topologias em Cisco Packet Tracer, configuração de VLANs, roteamento estático/dinâmico, DHCP Server, ACLs de segurança e diagnósticos de conectividade (troubleshooting L2/L3).
-<div align="center"> <img src=".github/assets/seta-para-baixo" alt="Exemplo" width="300"> </div>
+
 ### 📜 4. [Lab-powershell-scripts](https://github.com/rodrigolsoares-infra/Lab-powershell-scripts)
 > **Foco:** Repositório central de automações e scripts utilitários.
 * **Tópicos:** Contém todos os scripts PowerShell utilizados nos demais repositórios (criação em massa de usuários no AD, consulta de permissões, automação de tarefas administrativas). *Centralizado para evitar duplicação de código.*
