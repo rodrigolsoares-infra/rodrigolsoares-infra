@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação. 
 
-Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
+Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Migração para Nuvem Híbrida (Azure/Entra ID), Redes e Segurança**.
 
 ### 🚧 Status: Em desenvolvimento contínuo.
 ---
@@ -14,7 +14,8 @@ Este repositório reúne projetos práticos, simulações de ambientes corporati
 Análise e Desenvolvimento de Sistemas - Uninter 2024
 * **Certificações:** 
 * Google IT Support Professional Certificate - Coursera 2026 (✅ Concluída)
-* Az-900 Microsoft Azure Fundamentals (⏳ Em preparação Setembro/2026)
+* Estudando Az-900 Microsoft Azure Fundamentals (⏳ Em preparação)
+* Estudando CCST Network Cisco (⏳ Em preparação)
 * **Foco Profissional:** 
 Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
 * **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares]
