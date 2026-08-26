@@ -26,7 +26,7 @@ Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Admini
 
 Abaixo estão os acessos para os repositórios detalhados com documentação, arquiteturas e cenários práticos de resolução de problemas (troubleshooting):
 
-### 🛠️ 1. [Lab-suporte-infra](./GitHub\Lab-suporte-infra) <!-- linkar repositório -->
+### 🛠️ 1. [Lab-suporte-infra](https://github.com/rodrigolsoares-infra/Lab-suporte-infra) <!-- linkar repositório -->
 > **Foco:** Infraestrutura On-Premise, Virtualização com Hyper V, Gerenciamento de Usuários, Políticas de Grupo e Suporte Corporativo.
 * **Tópicos:** Instalação e configuração de Active Directory Domain Services (AD DS), criação de OU, estrutura de GPOs (segurança e mapeamento), POPs (Procedimentos Operacionais Padrão) e resolução de incidentes comuns.
 
