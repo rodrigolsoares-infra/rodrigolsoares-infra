@@ -15,7 +15,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Sistemas Operacionais:** Windows Server (2016/2019/2022), Windows 10/11 Client, Linux (Fundamentals).
 * **Serviços de Diretório & Nuvem:** Active Directory DS, Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
 * **Automação & Scripting:** PowerShell (Provisionamento em massa, gestão de objetos AD, manipulação de CSV).
-* **Redes & Segurança:** DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege.
+* **Redes & Segurança:** Topologias de Rede, Roteamento, VLANs, Sub-redes, DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege.
 * **Virtualização & Ferramentas:** Hyper-V, Cisco Packet Tracer, Git/GitHub, Draw.io.
 
 ---
@@ -32,6 +32,17 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
 📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
+
+---
+
+#### 🌐 2. [Laboratório de Redes e Infraestrutura Corporativa](https://github.com/rodrigolsoares-infra/Lab-redes)
+> *Laboratório focado no planejamento, simulação e implementação de topologias de rede corporativa, segmentação de tráfego, roteamento e serviços essenciais de infraestrutura.*
+
+* **Segmentação & Roteamento:** Configuração de VLANs, roteamento inter-VLANs e endereçamento IP estruturado para ambiente empresarial.
+* **Serviços de Rede:** Implementação de serviços fundamentais como DNS, DHCP e controle de acessos (ACLs).
+* **Simulação & Documentação:** Modelagem de topologia de rede no Cisco Packet Tracer com validação de conectividade cliente-servidor.
+
+📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**
 
 ---
 
