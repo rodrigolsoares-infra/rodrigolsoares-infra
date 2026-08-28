@@ -34,6 +34,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
 
+
 #### 🌐 2. [Laboratório de Redes e Infraestrutura Corporativa](https://github.com/rodrigolsoares-infra/Lab-redes)
 > *Laboratório focado no planejamento, simulação e implementação de topologias de rede corporativa, segmentação de tráfego, roteamento e serviços essenciais de infraestrutura.*
 
