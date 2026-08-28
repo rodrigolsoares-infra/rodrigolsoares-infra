@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
 </p>
 
-Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de sistemas, redes e infraestrutura. 
+Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de computadores e redes.
 
 Atualmente focado em **Gestão de Identidades Híbridas, Automação de Processos com PowerShell, Administração de Windows Server / Active Directory e Cloud Computing (Microsoft Entra ID/Azure)**.
 * **Foco Profissional:** Transição de carreira para a área Suporte Técnico Avançado, Administração de Redes/Sistemas Híbridos e Infraestrutura.
