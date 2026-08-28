@@ -4,7 +4,7 @@
 Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de sistemas, redes e infraestrutura. 
 
 Atualmente focado em **Gestão de Identidades Híbridas, Automação de Processos com PowerShell, Administração de Windows Server / Active Directory e Cloud Computing (Microsoft Entra ID/Azure)**.
-* **Foco Profissional:** Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
+* **Foco Profissional:** Transição de carreira para a área Suporte Técnico Avançado, Administração de Redes/Sistemas Híbridos e Infraestrutura.
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
