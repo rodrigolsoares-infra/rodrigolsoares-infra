@@ -39,8 +39,8 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 * 🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
 * 📜 **Google IT Support Professional Certificate** — Coursera / Google
-* 📖 *Em preparação contínua:* Microsoft Azure Fundamentals (AZ-900) 
-* 📖 *Em preparação:* 
+* 📖 *Educação contínua:* Microsoft Azure Fundamentals (AZ-900) 
+* 📖 *Em preparação:* Comptia Network+
 
 ---
 
