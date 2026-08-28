@@ -22,7 +22,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🚀 Projeto em Destaque
 
-#### 🌟 [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](./suporte-infra-hibrida)
+#### 🌟 [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](.main/suporte-infra-hibrida)
 > *Laboratório prático focado na estruturação de um ambiente corporativo híbrido, combinando automação on-premises via PowerShell, políticas avançadas de segurança e sincronização de identidades com a nuvem Microsoft.*
 
 **Destaques Técnicos do Projeto:**
