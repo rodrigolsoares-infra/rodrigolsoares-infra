@@ -1,44 +1,51 @@
-# Portfólio de Suporte Técnico & Infraestrutura de TI
+# Olá I'm Rodrigo Soares 👋
+**Analista de Suporte Técnico & Infraestrutura de TI**
 
-Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação. 
+Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de sistemas, redes e infraestrutura. 
 
-Este repositório reúne projetos práticos, simulações de ambientes corporativos e automações desenvolvidas para demonstrar competências operacionais e técnicas nas áreas de **Suporte N1/N2, Infraestrutura On-Premise, Nuvem Híbrida (Azure/Entra ID), Automação de Scripts, Redes e Segurança**.
+Atualmente focado em **Gestão de Identidades Híbridas, Automação de Processos com PowerShell, Administração de Windows Server / Active Directory e Cloud Computing (Microsoft Entra ID/Azure)**.
+* **Foco Profissional:** Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
 
-## 👤 Sobre Mim
+Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
+
 ---
 
-**🙋🏻‍♂️ Olá, Eu sou o Rodrigo!**
+### 💻 Stack Técnica & Ferramentas
 
-* **Formação:** 
-Análise e Desenvolvimento de Sistemas - Uninter 2024
-* **Certificações:** 
-* Google IT Support Professional Certificate - Coursera 2026 (✅ Concluída)
-* Az-900 Microsoft Azure Fundamentals (⏳ Em preparação Setembro/2026)
-* **Foco Profissional:** 
-Transição de carreira para Infraestrutura, Suporte Técnico Avançado e Administração de Redes/Sistemas Híbridos.
-* **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares]
+* **Sistemas Operacionais:** Windows Server (2016/2019/2022), Windows 10/11 Client, Linux (Fundamentals).
+* **Serviços de Diretório & Nuvem:** Active Directory DS, Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
+* **Automação & Scripting:** PowerShell (Provisionamento em massa, gestão de objetos AD, manipulação de CSV).
+* **Redes & Segurança:** DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege.
+* **Virtualização & Ferramentas:** Hyper-V, Cisco Packet Tracer, Git/GitHub, Draw.io.
 
-### 🚀 Projetos em Destaque
----
-Abaixo estão os acessos para os repositórios detalhados com documentação, arquiteturas e cenários práticos:
-
-#### 🛠️ [Laboratório de Infraestrutura Híbrida: AD DS + Entra ID](https://github.com/seu-usuario/lab-infra-hibrida)
-Projeto prático simulando um ambiente corporativo completo:
-* **On-Premises:** Implementação de Windows Server 2022, Active Directory com estrutura de OUs padronizada, DNS, DHCP e hardening via GPOs.
-* **Automação:** Scripts em PowerShell para provisionamento automatizado de usuários a partir de arquivos CSV.
-* **Nuvem/Identidade:** Sincronização híbrida de identidades com Microsoft Entra ID via Entra Connect.
-* 📄 **[Acessar Repositório e Documentação do Projeto →](https://github.com/seu-usuario/lab-infra-hibrida)**
-
-#### 🌐 [Laboratório de Redes e Segurança](https://github.com/seu-usuario/lab-infra-hibrida)
-Projeto prático com a ferramenta de simulação Cisco Packet Tracer:
-* Topologias de redes, configuração de VLANs, roteamento estático/dinâmico, DHCP Server.
-* ACLs de segurança e diagnósticos de conectividade (troubleshooting L2/L3).
-* 📄 **[Acessar Repositório e Documentação do Projeto →](https://github.com/seu-usuario/lab-infra-hibrida)**
-
-## 🛠️ Tecnologias & Competências:
 ---
 
-* **Sistemas & Virtualização:** Windows Server 2022, Windows 10/11, Linux, Hyper-V.
-* **Redes & Serviços:** TCP/IP, IPv4, DHCP, DNS, Cisco Packet Tracer.
-* **Automação & Suporte:** PowerShell, Bash, Permissões NTFS, Backup/Restore.
-* **Diretório&Nuvem:** Active Directory AD DS, OUs, GPOs, DHCP, DNS, File Sever, NFTS, Fundamentos de Azure/Entra ID.
+### 🚀 Projeto em Destaque
+
+#### 🌟 [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](./suporte-infra-hibrida)
+> *Laboratório prático focado na estruturação de um ambiente corporativo híbrido, combinando automação on-premises via PowerShell, políticas avançadas de segurança e sincronização de identidades com a nuvem Microsoft.*
+
+**Destaques Técnicos do Projeto:**
+* **Automação com PowerShell:** Provisionamento em massa de identidades e grupos via scripts `.ps1` consumindo base de dados `.csv`.
+* **Segurança e Hardening (GPOs):** Aplicação do modelo de menor privilégio (Least Privilege), bloqueio de mídias removíveis (USB), e mapeamento dinâmico de unidades de rede (`S:`).
+* **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
+* **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
+
+📂 **[Acesse o Repositório do Projeto](./suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](./suporte-infra-hibrida/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](./suporte-infra-hibrida/docs/listar-gpos.md)**
+
+---
+
+### 📚 Formação & Certificações
+
+* 🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
+* 📜 **Google IT Support Professional Certificate** — Coursera / Google
+* 📖 *Em preparação contínua:* Microsoft Azure Fundamentals (AZ-900) 
+* 📖 *Em preparação:* 
+
+---
+
+### 📬 Vamos nos conectar?
+
+* **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares/](https://linkedin.com)
+* **GitHub:** [github.com/rodrigolsoares-infra](https://github.com/rodrigolsoares-infra)
+* **Email:** [rodrigo.l.soares@outmail.com]
