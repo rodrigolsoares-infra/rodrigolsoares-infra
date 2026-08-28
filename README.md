@@ -1,4 +1,4 @@
-# Olá I'm Rodrigo Soares 👋
+# Olá, eu sou o Rodrigo 👋
 **Analista de Suporte Técnico & Infraestrutura de TI**
 
 Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de sistemas, redes e infraestrutura. 
