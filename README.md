@@ -22,7 +22,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🚀 Projeto em Destaque
 
-#### 🌟 [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](.main/suporte-infra-hibrida)
+#### 🌟 [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
 > *Laboratório prático focado na estruturação de um ambiente corporativo híbrido, combinando automação on-premises via PowerShell, políticas avançadas de segurança e sincronização de identidades com a nuvem Microsoft.*
 
 **Destaques Técnicos do Projeto:**
@@ -31,7 +31,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
-📂 **[Acesse o Repositório do Projeto](./suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](./suporte-infra-hibrida/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](./suporte-infra-hibrida/docs/listar-gpos.md)**
+📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
 ---
 
