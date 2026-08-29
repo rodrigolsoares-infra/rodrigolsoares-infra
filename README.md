@@ -67,7 +67,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
-📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
+📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**[span_10](start_span)[span_10](end_span)
 
 
 
@@ -78,16 +78,16 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Serviços de Rede:** Implementação de serviços fundamentais como DNS, DHCP e controle de acessos (ACLs).
 * **Simulação & Documentação:** Modelagem de topologia de rede no Cisco Packet Tracer com validação de conectividade cliente-servidor.
 
-📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**
+📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**[span_11](start_span)[span_11](end_span).
 
 ---
 
-### 📚 Formação & Certificações
+### 🎯 Estudos Continuos & Certificações
 
-* 🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
-* 📜 **Google IT Support Professional Certificate** — Coursera / Google
-* 📖 *Educação contínua:* Microsoft Azure Fundamentals (AZ-900) 
-* 📖 *Em preparação:* Comptia Network+
+* 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada[span_12](start_span)[span_12](end_span)
+* 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco)[span_13](start_span)[span_13](end_span)
+* 📌 **Em preparação:** Cisco CCST Networking & Cybersecurity
+* 📌 **Estudos futuros:** Microsoft Azure (AZ-900 / AZ-104)
 
 ---
 
