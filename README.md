@@ -40,7 +40,7 @@
 
 ### 🚀 Sobre Mim
 
-Graduado em Análise e Desenvolvimento de Sistemas, certificado com o **Google IT Support Professional** e graduado em Gestão de Segurança Privada. Minha trajetória une a maturidade de quase **6 anos no ambiente corporativo** (gestão de processos, análise de dados e prevenção de perdas) com a preparação prática para atuar em **Suporte Técnico (N1/N2) e Infraestrutura de TI**, agregando conhecimentos em **Cibersegurança e Análise de Risco** como diferencial operacional.
+Graduado em Análise e Desenvolvimento de Sistemas, certificado com o **Google IT Support Professional** e graduado em Gestão de Segurança Privada. Minha trajetória une a maturidade de mais de **5 anos no ambiente corporativo** (gestão de processos, análise de dados e prevenção de perdas) com a preparação prática para atuar em **Suporte Técnico (N1/N2) e Infraestrutura de TI**, agregando conhecimentos em **Cibersegurança e Análise de Risco** como diferencial operacional.
 
 Atuo com prestação de serviços autônomos como Técnico de Informática (manutenção de computadores, configuração de redes locais e SO Windows) e no desenvolvimento contínuo de laboratórios práticos focados no ecossistema Microsoft, Redes e Segurança.
 
