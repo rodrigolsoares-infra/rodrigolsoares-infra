@@ -47,13 +47,14 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ---
 
-### 💻 Stack Técnica & Ferramentas
+### 🧰 Mapeamento de Competências & Tecnologias
 
-* **Sistemas Operacionais:** Windows Server (2016/2019/2022), Windows 10/11 Client, Linux (Fundamentals).
-* **Serviços de Diretório & Nuvem:** Active Directory DS, Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
-* **Automação & Scripting:** PowerShell (Provisionamento em massa, gestão de objetos AD, manipulação de CSV).
-* **Redes & Segurança:** Topologias de Rede, Roteamento, VLANs, Sub-redes, DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege.
-* **Virtualização & Ferramentas:** Hyper-V, Cisco Packet Tracer, Git/GitHub, Draw.io.
+* **Infraestrutura & Suporte:** Active Directory (AD DS), Gestão de OUs, Diretivas de Grupo (GPOs), Permissões NTFS, File Server, DHCP, DNS e Windows Sever.
+* **Nuvem & Identidades:** Fundamentos de  Microsoft Azure e Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
+* **Automação & Processos:** Scripts em PowerShell para criação em massa de usuários e automação de rotinas operacionais.
+* **Redes & Cibersegurança:** Análise de tráfego, protocolos TCP/IP, Topologias de Rede, Roteamento, VLANs, Sub-redes, DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege. Segurança Cibernética, Mitigação de Riscos (Cyber Academy FEBRABAN/Accenture e Cisco).
+* **Processos & ITSM:** Atendimento a chamados, Documentação Técnica (SOPs/POPs), Diagnóstico de Incidentes e Gestão de SLA.
+* **Virtualização & Ferramentas:** Hyper-V, Cisco Packet Tracer, Wireshark, Zabbix, Git/GitHub.
 
 ---
 
@@ -68,7 +69,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
-📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**[span_10](start_span)[span_10](end_span)
+📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
 
 
@@ -79,14 +80,14 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Serviços de Rede:** Implementação de serviços fundamentais como DNS, DHCP e controle de acessos (ACLs).
 * **Simulação & Documentação:** Modelagem de topologia de rede no Cisco Packet Tracer com validação de conectividade cliente-servidor.
 
-📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**[span_11](start_span)[span_11](end_span).
+📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**
 
 ---
 
 ### 🎯 Estudos Continuos & Certificações
 
-* 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada[span_12](start_span)[span_12](end_span)
-* 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco)[span_13](start_span)[span_13](end_span)
+* 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada.
+* 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco).
 * 📌 **Em preparação:** Cisco CCST Networking & Cybersecurity
 * 📌 **Estudos futuros:** Microsoft Azure (AZ-900 / AZ-104)
 
