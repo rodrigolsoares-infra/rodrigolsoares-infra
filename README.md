@@ -1,5 +1,6 @@
 # Olá, eu sou o Rodrigo 👋
 **Analista de Suporte Técnico & Infraestrutura de TI**
+📍 Timbó, Santa Catarina | Disponível para atuação Presencial, Híbrida ou Remota
 
 <!-- Badges de Tecnologias em Cores Originais (Com Linux e Bash) -->
 <p align="center">
