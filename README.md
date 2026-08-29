@@ -37,10 +37,11 @@
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
 </p>
 
-Graduado em **Análise e Desenvolvimento de Sistemas** e certificado com o **Google IT Support Professional Certificate**. Possuo mais de 6 anos de experiência corporativa e operacional, atuando com suporte a usuários, manutenção de computadores e redes.
+### 🚀 Sobre Mim
 
-Atualmente focado em **Gestão de Identidades Híbridas, Automação de Processos com PowerShell, Administração de Windows Server / Active Directory e Cloud Computing (Microsoft Entra ID/Azure)**.
-* **Foco Profissional:** Transição de carreira para a área Suporte Técnico Avançado, Administração de Redes/Sistemas Híbridos e Infraestrutura.
+Graduado em Análise e Desenvolvimento de Sistemas, certificado com o **Google IT Support Professional** e graduado em Gestão de Segurança Privada. Minha trajetória une a maturidade de **+6 anos no ambiente corporativo** (gestão de processos, análise de dados e prevenção de perdas) com a preparação prática para atuar em **Suporte Técnico (N1/N2) e Infraestrutura de TI**, agregando conhecimentos em **Cibersegurança e Análise de Risco** como diferencial operacional.
+
+Atuo com prestação de serviços autônomos como Técnico de Informática (manutenção de computadores, configuração de redes locais e SO Windows) e no desenvolvimento contínuo de laboratórios práticos focados no ecossistema Microsoft, Redes e Segurança.
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
