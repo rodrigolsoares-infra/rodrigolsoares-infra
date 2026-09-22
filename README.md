@@ -91,7 +91,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada.
 * 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco).
 * 📌 **Em preparação:** Cisco CCST Networking & Cybersecurity
-* 📌 **Estudos futuros:** Microsoft Azure (AZ-900 / AZ-104)
+* 📌 **Estudos futuros:** Microsoft Azure (AZ-900, SC-900 e AB-900)
 
 ---
 
