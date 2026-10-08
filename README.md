@@ -55,14 +55,6 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Segmentação & Redundância L2:** Divisão lógica por departamentos (RH, Vendas, Financeiro) com Trunking (802.1Q) e prevenção de loops/failover automático via Spanning Tree Protocol (STP).
 * **Serviços & Endereçamento:** Servidores DHCP configurados nos switches L3, reservas estáticas para ativos de impressão e endereçamento IPv4 estruturado (`/24` e sub-redes `/30`).
 
-<div align="center">
-
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer_8.0+-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](#)
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolsoares-infra/Lab-redes/topologia-matriz-filial)
-
-</div>
-
 ---
 
 ### 🎯 Estudos Continuos & Certificações
