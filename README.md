@@ -75,7 +75,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * 📜 **Cursos Complementares:**
   - Curso Introduction to Cybersecurity | Netacad
   - Digital Safety and Security Awareness | Netacad
-  - Curso Cyber Academy - Treinamento no Laboratório de Segurança Cibernética | Fecraban/Accenture
+  - Curso Cyber Academy - Treinamento no Laboratório de Segurança Cibernética | Febraban/Accenture
   - Curso Manutenção de computadores e equipamentos de informática | Udemy
   
 * 📌 **Em preparação:** Estudo da Trilha CCST Networking da Cisco e CompTIA Network+
