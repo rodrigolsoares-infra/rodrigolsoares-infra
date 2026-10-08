@@ -69,10 +69,9 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
----
-
 📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
+---
 ### 📊 2. [Monitoramento & Observabilidade com Zabbix 7.0 e Grafana](https://github.com/rodrigolsoares-infra/monitoramento)
 Implantação e integração de ambiente de monitoramento em tempo real em VM Debian (`MON-01`), focado em observabilidade NOC e resolução avançada de incidentes.
 * **Tecnologias:** Zabbix Server 7.0, Grafana Enterprise, PostgreSQL, Apache2, Linux Debian, Hyper-V.
