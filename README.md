@@ -1,11 +1,19 @@
 # Olá, eu sou o Rodrigo 👋
-**Analista de Suporte Técnico N1/N2 & Infraestrutura de TI**
+**Analista de Suporte Técnico N2 | Redes, NOC & Monitoramento**
 
 📍 Timbó, Santa Catarina | Disponível para atuação Presencial, Híbrida ou Remota
 
 ### 👤 Sobre Mim
 
-Profissional em transição para **Suporte N2, Infraestrutura Híbrida e Segurança**, com sólida experiência corporativa em auditoria, processos e conformidade. Atualmente focado no desenvolvimento de laboratórios práticos de governança de identidades, administração de redes e monitoramento de ambientes.
+Profissional focado em **Suporte N1/N2, Infraestrutura de Redes e Operações de NOC / Monitoramento**, com sólida bagagem corporativa em auditoria de processos, conformidade e resolução de problemas.
+
+Atualmente, dedico minha evolução técnica ao desenvolvimento de **laboratórios práticos de alta complexidade**, simulando ambientes corporativos reais:
+- **Redes & Conectividade:** Arquitetura hierárquica Cisco (L2/L3), roteamento inter-VLAN, Trunking (802.1Q), redundância L2 (STP) e links WAN multi-site.
+- **Observabilidade & NOC:** Implementação e gestão de monitoramento em tempo real com **Zabbix Server 7.0** e **Grafana Enterprise** (métricas de ativos de rede e servidores, triggers e alertas visuais).
+- **Gestão de Identidades & Sistemas:** Active Directory DS, infraestrutura híbrida (Microsoft Entra ID) e automação via PowerShell.
+
+Busco oportunidades como **Assistente / Analista de Monitoramento (NOC)** e **Analista de Suporte / Redes**, aplicando diagnósticos ágeis (troubleshooting L1/L2) para garantir alta disponibilidade e cumprimento de SLAs.
+
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
@@ -17,9 +25,9 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 - Nuvem & Identidades: Fundamentos de Microsoft Azure e Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
 - Automação & Processos: Scripts em PowerShell para criação em massa de usuários e automação de rotinas operacionais.
 - Observabilidade & Monitoramento: Zabbix Server 7.0, Grafana Enterprise, Métricas em Tempo Real (CPU, RAM, Disco), Thresholds de Alerta Visual e Gestão de Triggers/Problems.
-- Redes & Cibersegurança: Análise de tráfego, protocolos TCP/IP, Topologias de Rede, Roteamento, VLANs, Sub-redes, DNS, DHCP, VPN, GPO (Group Policy Objects), Arquitetura AGDLP, Tiering Model & Least Privilege. Segurança Cibernética, Mitigação de Riscos (Cyber Academy FEBRABAN/Accenture e Cisco).
+- Redes & Cibersegurança: Arquitetura de Redes Hierárquica (Core/Access), Roteamento Inter-VLAN (SVIs), Switches L2/L3, Trunking (IEEE 802.1Q), Redundância e Proteção L2 (Spanning Tree Protocol - STP), Sub-redes IPv4 (/24 e /30), Links WAN (Serial/Estático), Protocolos TCP/IP, VPN, GPO, Arquitetura AGDLP, Tiering Model & Least Privilege. Segurança Cibernética e Mitigação de Riscos.
 - Processos & ITSM: Atendimento a chamados, Documentação Técnica (SOPs/POPs), Diagnóstico de Incidentes (Troubleshooting N1/N2) e Gestão de SLA.
-- Virtualização & Ferramentas: Hyper-V, Linux (Debian), PostgreSQL, Apache2, Cisco Packet Tracer, Wireshark, Zabbix, Grafana, Git/GitHub.
+- Virtualização & Ferramentas: Hyper-V, Linux (Debian/Ubuntu), PostgreSQL, Apache2, Cisco Packet Tracer, Wireshark, Zabbix, Grafana, Git/GitHub.
 
 ---
 
