@@ -3,42 +3,6 @@
 
 📍 Timbó, Santa Catarina | Disponível para atuação Presencial, Híbrida ou Remota
 
-<!-- Badges de Tecnologias em Cores Originais (Com Linux e Bash) -->
-<p align="center">
-  <!-- Windows Server (Azul) -->
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
-  
-  <!-- GitHub (Escuro) -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-  <!-- Active Directory (Azul) -->
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
-
-  <!-- Bash (Escuro / Verde) -->
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash" />
-
-  <!-- PowerShell (Azul Elétrico) -->
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-
-  <!-- Python (Azul Escuro / Amarelo) -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-  <!-- Linux (Amarelo / Preto) -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-  <!-- Hyper-V (Azul) -->
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" />
-
-  <!-- Markdown (Escuro) -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-
-  <!-- Cisco (Azul Cerúleo) -->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-
-  <!-- Microsoft Entra ID (Azul) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
-</p>
-
 ### 🚀 Sobre Mim
 
 Profissional em transição para **Suporte N2, Infraestrutura Híbrida e Segurança**, com sólida experiência corporativa em auditoria, processos e conformidade. Atualmente focado no desenvolvimento de laboratórios práticos de governança de identidades, administração de redes e monitoramento de ambientes.
