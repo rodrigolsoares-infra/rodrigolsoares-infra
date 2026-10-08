@@ -19,18 +19,6 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ---
 
-### 🧰 Mapeamento de Competências & Tecnologias
-
-- Infraestrutura & Suporte: Active Directory (AD DS), Gestão de OUs, Diretivas de Grupo (GPOs), Permissões NTFS, File Server, DHCP, DNS e Windows Server.
-- Nuvem & Identidades: Fundamentos de Microsoft Azure e Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
-- Automação & Processos: Scripts em PowerShell para criação em massa de usuários e automação de rotinas operacionais.
-- Observabilidade & Monitoramento: Zabbix Server 7.0, Grafana Enterprise, Métricas em Tempo Real (CPU, RAM, Disco), Thresholds de Alerta Visual e Gestão de Triggers/Problems.
-- Redes & Cibersegurança: Arquitetura de Redes Hierárquica (Core/Access), Roteamento Inter-VLAN (SVIs), Switches L2/L3, Trunking (IEEE 802.1Q), Redundância e Proteção L2 (Spanning Tree Protocol - STP), Sub-redes IPv4 (/24 e /30), Links WAN (Serial/Estático), Protocolos TCP/IP, VPN, GPO, Arquitetura AGDLP, Tiering Model & Least Privilege. Segurança Cibernética e Mitigação de Riscos.
-- Processos & ITSM: Atendimento a chamados, Documentação Técnica (SOPs/POPs), Diagnóstico de Incidentes (Troubleshooting N1/N2) e Gestão de SLA.
-- Virtualização & Ferramentas: Hyper-V, Linux (Debian/Ubuntu), PostgreSQL, Apache2, Cisco Packet Tracer, Wireshark, Zabbix, Grafana, Git/GitHub.
-
----
-
 ### 🚀 Projetos em Destaque
 
 ### 🌟 1. [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
@@ -87,3 +75,15 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **LinkedIn:** [https://www.linkedin.com/in/rodrigolzsoares/](https://linkedin.com)
 * **GitHub:** [github.com/rodrigolsoares-infra](https://github.com/rodrigolsoares-infra)
 * **Email:** [rodrigo.l.soares@outmail.com]
+
+---
+
+### 🧰 Mapeamento de Competências & Tecnologias
+
+- Infraestrutura & Suporte: Active Directory (AD DS), Gestão de OUs, Diretivas de Grupo (GPOs), Permissões NTFS, File Server, DHCP, DNS e Windows Server.
+- Nuvem & Identidades: Fundamentos de Microsoft Azure e Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
+- Automação & Processos: Scripts em PowerShell para criação em massa de usuários e automação de rotinas operacionais.
+- Observabilidade & Monitoramento: Zabbix Server 7.0, Grafana Enterprise, Métricas em Tempo Real (CPU, RAM, Disco), Thresholds de Alerta Visual e Gestão de Triggers/Problems.
+- Redes & Cibersegurança: Arquitetura de Redes Hierárquica (Core/Access), Roteamento Inter-VLAN (SVIs), Switches L2/L3, Trunking (IEEE 802.1Q), Redundância e Proteção L2 (Spanning Tree Protocol - STP), Sub-redes IPv4 (/24 e /30), Links WAN (Serial/Estático), Protocolos TCP/IP, VPN, GPO, Arquitetura AGDLP, Tiering Model & Least Privilege. Segurança Cibernética e Mitigação de Riscos.
+- Processos & ITSM: Atendimento a chamados, Documentação Técnica (SOPs/POPs), Diagnóstico de Incidentes (Troubleshooting N1/N2) e Gestão de SLA.
+- Virtualização & Ferramentas: Hyper-V, Linux (Debian/Ubuntu), PostgreSQL, Apache2, Cisco Packet Tracer, Wireshark, Zabbix, Grafana, Git/GitHub.
