@@ -41,9 +41,7 @@
 
 ### 🚀 Sobre Mim
 
-Graduado em Análise e Desenvolvimento de Sistemas, certificado com o **Google IT Support Professional** e graduado em Gestão de Segurança Privada. Minha trajetória une a maturidade de mais de **5 anos no ambiente corporativo** (gestão de processos, análise de dados e prevenção de perdas) com a preparação prática para atuar em **Suporte Técnico (N1/N2) e Infraestrutura de TI**, agregando conhecimentos em **Cibersegurança e Análise de Risco** como diferencial operacional.
-
-Atuo com prestação de serviços autônomos como Técnico de Informática (manutenção de computadores, configuração de redes locais e SO Windows) e no desenvolvimento contínuo de laboratórios práticos focados no ecossistema Microsoft, Redes e Segurança.
+Profissional em transição para **Suporte N2, Infraestrutura Híbrida e Segurança**, com sólida experiência corporativa em auditoria, processos e conformidade. Atualmente focado no desenvolvimento de laboratórios práticos de governança de identidades, administração de redes e monitoramento de ambientes.
 
 Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
@@ -62,7 +60,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🚀 Projetos em Destaque
 
-#### 🌟 1. [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID (Em desenvolvimento)](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
+### 🌟 1. [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID (Em desenvolvimento)](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
 > *Laboratório prático focado na estruturação de um ambiente corporativo híbrido, combinando automação on-premises via PowerShell, políticas avançadas de segurança e sincronização de identidades com a nuvem Microsoft.*
 
 **Destaques Técnicos do Projeto:**
@@ -71,11 +69,23 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 * **Integração Cloud (Entra Connect):** Sincronização por OUs específicas (OU-based filtering), configuração de sufixo UPN customizado e Password Hash Sync (PHS).
 * **Documentação Padronizada:** Separação modular de evidências, topologia da rede e acervo técnico de scripts e diretivas.
 
+---
+
 📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
+### 📊 2. [Monitoramento & Observabilidade com Zabbix 7.0 e Grafana](https://github.com/rodrigolsoares-infra/monitoramento)
+Implantação e integração de ambiente de monitoramento em tempo real em VM Debian (`MON-01`), focado em observabilidade NOC e resolução avançada de incidentes.
+* **Tecnologias:** Zabbix Server 7.0, Grafana Enterprise, PostgreSQL, Apache2, Linux Debian, Hyper-V.
+* **Destaques & Troubleshooting:**
+  * Construção de dashboards interativos no Grafana com métricas de CPU, RAM, Disco e *Zabbix Problems*.
+  * Implementação de alertas visuais (*Thresholds*) para métricas críticas de infraestrutura.
+  * Resolução de incidentes de autenticação via banco (hash Bcrypt no PostgreSQL) e reparo de pilha de rede em nível de kernel no host.
 
+📂 **[Acesse o Repositório do Projeto de Monitormante Zabbix + Grafana]([https://github.com/rodrigolsoares-infra/Lab-redes](https://github.com/rodrigolsoares-infra/monitoramento))**
 
-#### 🌐 2. [Laboratório de Redes e Infraestrutura Corporativa](https://github.com/rodrigolsoares-infra/Lab-redes)
+---
+
+### 🌐 3. [Laboratório de Redes e Infraestrutura Corporativa](https://github.com/rodrigolsoares-infra/Lab-redes) (EM DESENVOLVIMENTO)
 > *Laboratório focado no planejamento, simulação e implementação de topologias de rede corporativa, segmentação de tráfego, roteamento e serviços essenciais de infraestrutura.*
 
 * **Segmentação & Roteamento:** Configuração de VLANs, roteamento inter-VLANs e endereçamento IP estruturado para ambiente empresarial.
