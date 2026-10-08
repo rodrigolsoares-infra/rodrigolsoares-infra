@@ -3,7 +3,7 @@
 
 📍 Timbó, Santa Catarina | Disponível para atuação Presencial, Híbrida ou Remota
 
-### 🚀 Sobre Mim
+### 👤 Sobre Mim
 
 Profissional em transição para **Suporte N2, Infraestrutura Híbrida e Segurança**, com sólida experiência corporativa em auditoria, processos e conformidade. Atualmente focado no desenvolvimento de laboratórios práticos de governança de identidades, administração de redes e monitoramento de ambientes.
 
