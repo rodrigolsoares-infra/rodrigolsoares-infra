@@ -67,9 +67,18 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🎯 Estudos Continuos & Certificações
 
-* 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada.
-* 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco).
-* 📌 **Em preparação:** Cisco CCST Networking & Cybersecurity
+* 🎓 **Formações e Certificações:**
+  - CST em Análise e Desenvolvimento de Sistemas | Uniter
+  - CST em Gestão de Segurança Privada | Uninter
+  - Google IT Support Professional | Google/Coursera
+    
+* 📜 **Cursos Complementares:**
+  - Curso Introduction to Cybersecurity | Netacad
+  - Digital Safety and Security Awareness | Netacad
+  - Curso Cyber Academy - Treinamento no Laboratório de Segurança Cibernética | Fecraban/Accenture
+  - Curso Manutenção de computadores e equipamentos de informática | Udemy
+  
+* 📌 **Em preparação:** Estudo da Trilha CCST Networking da Cisco e CompTIA Network+
 
 ---
 
