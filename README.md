@@ -48,12 +48,24 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ---
 
-### 🌐 3. [Laboratório de Redes e Infraestrutura Corporativa](https://github.com/rodrigolsoares-infra/Lab-redes) (EM DESENVOLVIMENTO)
-> *Laboratório focado no planejamento, simulação e implementação de topologias de rede corporativa, segmentação de tráfego, roteamento e serviços essenciais de infraestrutura.*
+### 🌐 3. [Infraestrutura de Rede Corporativa Multi-Site (Sede & Filial)](https://github.com/rodrigolsoares-infra/Lab-redes) (EM DESENVOLVIMENTO)
+> *Projeto concluído de arquitetura e simulação de rede corporativa híbrida de alta disponibilidade desenvolvida no **Cisco Packet Tracer**, interligando Sede e Filial por meio de links WAN dedicados, segmentação L2/L3 e redundância.*
 
-* **Segmentação & Roteamento:** Configuração de VLANs, roteamento inter-VLANs e endereçamento IP estruturado para ambiente empresarial.
-* **Serviços de Rede:** Implementação de serviços fundamentais como DNS, DHCP e controle de acessos (ACLs).
-* **Simulação & Documentação:** Modelagem de topologia de rede no Cisco Packet Tracer com validação de conectividade cliente-servidor.
+* **Arquitetura Hierárquica & L3 Routing:** Implementação do modelo Cisco de 3 camadas (Core, Distribuição e Acesso) com roteamento inter-VLAN via Switches Multicamada (SVIs) e roteamento estático WAN entre bordas.
+* **Segmentação & Redundância L2:** Divisão lógica por departamentos (RH, Vendas, Financeiro) com Trunking (802.1Q) e prevenção de loops/failover automático via Spanning Tree Protocol (STP).
+* **Serviços & Endereçamento:** Servidores DHCP configurados nos switches L3, reservas estáticas para ativos de impressão e endereçamento IPv4 estruturado (`/24` e sub-redes `/30`).
+
+---
+
+<div align="center">
+
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer_8.0+-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](#)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolsoares-infra/topologia-matriz-filial)
+
+</div>
+
+---
 
 ---
 
