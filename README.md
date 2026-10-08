@@ -97,7 +97,6 @@ Implantação e integração de ambiente de monitoramento em tempo real em VM De
 * 🎓 **Formação:** CST em Análise e Desenvolvimento de Sistemas | CST em Gestão de Segurança Privada.
 * 📜 **Certificações:** Google IT Support Professional | Cyber Academy (FEBRABAN/Accenture) | Introduction to Cybersecurity (Cisco).
 * 📌 **Em preparação:** Cisco CCST Networking & Cybersecurity
-* 📌 **Estudos futuros:** Ecossistema Microsoft com Fundamentos de Administração em Infraestrutura Segura (AZ-900, SC-900 e AB-900)
 
 ---
 
