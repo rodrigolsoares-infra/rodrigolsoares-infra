@@ -48,14 +48,12 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ---
 
-### 🌐 3. [Infraestrutura de Rede Corporativa Multi-Site (Sede & Filial)](https://github.com/rodrigolsoares-infra/Lab-redes) (EM DESENVOLVIMENTO)
+### 🌐 3. [Infraestrutura de Rede Corporativa Multi-Site (Sede & Filial)](https://github.com/rodrigolsoares-infra/Lab-redes)
 > *Projeto concluído de arquitetura e simulação de rede corporativa híbrida de alta disponibilidade desenvolvida no **Cisco Packet Tracer**, interligando Sede e Filial por meio de links WAN dedicados, segmentação L2/L3 e redundância.*
 
 * **Arquitetura Hierárquica & L3 Routing:** Implementação do modelo Cisco de 3 camadas (Core, Distribuição e Acesso) com roteamento inter-VLAN via Switches Multicamada (SVIs) e roteamento estático WAN entre bordas.
 * **Segmentação & Redundância L2:** Divisão lógica por departamentos (RH, Vendas, Financeiro) com Trunking (802.1Q) e prevenção de loops/failover automático via Spanning Tree Protocol (STP).
 * **Serviços & Endereçamento:** Servidores DHCP configurados nos switches L3, reservas estáticas para ativos de impressão e endereçamento IPv4 estruturado (`/24` e sub-redes `/30`).
-
----
 
 <div align="center">
 
@@ -64,8 +62,6 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 [![Repositório](https://img.shields.io/badge/Ver_Repositório-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolsoares-infra/topologia-matriz-filial)
 
 </div>
-
----
 
 ---
 
