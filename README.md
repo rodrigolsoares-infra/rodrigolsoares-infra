@@ -49,7 +49,6 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🧰 Mapeamento de Competências & Tecnologias
 
-🧰 Mapeamento de Competências & Tecnologias
 - Infraestrutura & Suporte: Active Directory (AD DS), Gestão de OUs, Diretivas de Grupo (GPOs), Permissões NTFS, File Server, DHCP, DNS e Windows Server.
 - Nuvem & Identidades: Fundamentos de Microsoft Azure e Microsoft Entra ID (Azure AD), Entra Connect (PHS, Password Writeback).
 - Automação & Processos: Scripts em PowerShell para criação em massa de usuários e automação de rotinas operacionais.
