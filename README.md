@@ -72,6 +72,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 📂 **[Acesse o Repositório do Projeto](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)** | 📄 **[Acervo de Scripts](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-scripts.md)** | 🛡️ **[Lista de GPOs](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida/blob/main/docs/listar-gpos.md)**
 
 ---
+
 ### 📊 2. [Monitoramento & Observabilidade com Zabbix 7.0 e Grafana](https://github.com/rodrigolsoares-infra/monitoramento)
 Implantação e integração de ambiente de monitoramento em tempo real em VM Debian (`MON-01`), focado em observabilidade NOC e resolução avançada de incidentes.
 * **Tecnologias:** Zabbix Server 7.0, Grafana Enterprise, PostgreSQL, Apache2, Linux Debian, Hyper-V.
@@ -79,8 +80,6 @@ Implantação e integração de ambiente de monitoramento em tempo real em VM De
   * Construção de dashboards interativos no Grafana com métricas de CPU, RAM, Disco e *Zabbix Problems*.
   * Implementação de alertas visuais (*Thresholds*) para métricas críticas de infraestrutura.
   * Resolução de incidentes de autenticação via banco (hash Bcrypt no PostgreSQL) e reparo de pilha de rede em nível de kernel no host.
-
-📂 **[Acesse o Repositório do Projeto de Monitormante Zabbix + Grafana]([https://github.com/rodrigolsoares-infra/Lab-redes](https://github.com/rodrigolsoares-infra/monitoramento))**
 
 ---
 
@@ -90,8 +89,6 @@ Implantação e integração de ambiente de monitoramento em tempo real em VM De
 * **Segmentação & Roteamento:** Configuração de VLANs, roteamento inter-VLANs e endereçamento IP estruturado para ambiente empresarial.
 * **Serviços de Rede:** Implementação de serviços fundamentais como DNS, DHCP e controle de acessos (ACLs).
 * **Simulação & Documentação:** Modelagem de topologia de rede no Cisco Packet Tracer com validação de conectividade cliente-servidor.
-
-📂 **[Acesse o Repositório do Projeto Lab-redes](https://github.com/rodrigolsoares-infra/Lab-redes)**
 
 ---
 
