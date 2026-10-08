@@ -61,7 +61,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 
 ### 🚀 Projetos em Destaque
 
-### 🌟 1. [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID (Em desenvolvimento)](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
+### 🌟 1. [Gestão Híbrida de Identidades com AD DS, PowerShell e Microsoft Entra ID](https://github.com/rodrigolsoares-infra/suporte-infra-hibrida)
 > *Laboratório prático focado na estruturação de um ambiente corporativo híbrido, combinando automação on-premises via PowerShell, políticas avançadas de segurança e sincronização de identidades com a nuvem Microsoft.*
 
 **Destaques Técnicos do Projeto:**
