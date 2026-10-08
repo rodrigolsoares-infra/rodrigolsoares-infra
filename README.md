@@ -39,7 +39,7 @@ Seja bem-vindo(a) ao meu portfólio prático de Tecnologia da Informação.
 ---
 
 ### 📊 2. [Monitoramento & Observabilidade com Zabbix 7.0 e Grafana](https://github.com/rodrigolsoares-infra/monitoramento)
-Implantação e integração de ambiente de monitoramento em tempo real em VM Debian (`MON-01`), focado em observabilidade NOC e resolução avançada de incidentes.
+> *Implantação e integração de ambiente de monitoramento em tempo real em VM Debian (`MON-01`), focado em observabilidade NOC e resolução avançada de incidentes.*
 * **Tecnologias:** Zabbix Server 7.0, Grafana Enterprise, PostgreSQL, Apache2, Linux Debian, Hyper-V.
 * **Destaques & Troubleshooting:**
   * Construção de dashboards interativos no Grafana com métricas de CPU, RAM, Disco e *Zabbix Problems*.
